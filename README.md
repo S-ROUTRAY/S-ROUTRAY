@@ -33,12 +33,12 @@
 <h2 align="center">.....🌐 Connect With Me.....</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/s-routray/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-routray" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/mrsmrutiranjan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mrsmrutiranjan" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/mrsmrutiranjanok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mrsmrutiranjanok" height="40" width="40" /></a>
-<a href="https://leetcode.com/u/S_Routray/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="S_Routray" height="40" width="40" /></a>
-<a href="mailto:smrutiranjanroutray.in@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=96&id=qyRpAggnV0zH&format=png" alt="smrutiranjanroutray.in@gmail.com" height="40" width="40" /></a>
-<a href="https://x.com/S_Routray01" target="blank"><img align="center" src="https://github.com/ariyoaresa/ionicons/blob/main/src/svg/logo-x-twitter.svg" alt="S_Routray01" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/s-routray/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/mrsmrutiranjan"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="40"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/mrsmrutiranjanok"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/S_Routray/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40"></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:smrutiranjanroutray.in@gmail.com"><img src="https://img.icons8.com/?size=96&id=qyRpAggnV0zH&format=png" height="40"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/S_Routray01"><img src="https://github.com/ariyoaresa/ionicons/blob/main/src/svg/logo-x-twitter.svg" height="40"></a>
 </p>
 
 <div align="center">
